@@ -1,2 +1,2 @@
-# Learn-React
-A couple small projects in ReactJS
+# Learn-React-With-Michal
+A couple of small projects to learn ReactJS
